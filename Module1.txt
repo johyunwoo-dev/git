@@ -1,1 +1,15 @@
-Module의 첫번째 수정사항
+git config --global user.name "johyunwoo-dev"
+git config --global user.eamil "johw1013@gmail.com"
+
+
+git init
+git add .
+git commit -m "dd"
+git branch -M main
+git remote add origin 깃허브 주소
+git push -u origin main
+
+git add .
+git commit -m "dd"
+git push origin main
+
