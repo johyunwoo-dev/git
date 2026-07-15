@@ -1,5 +1,5 @@
 git config --global user.name "johyunwoo-dev"
-git config --global user.eamil "johw1013@gmail.com"
+git config --global user.eamil "--@gmail.com"
 
 git init
 git add .
