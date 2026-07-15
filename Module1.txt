@@ -1,7 +1,6 @@
 git config --global user.name "johyunwoo-dev"
 git config --global user.eamil "johw1013@gmail.com"
 
-
 git init
 git add .
 git commit -m "dd"
